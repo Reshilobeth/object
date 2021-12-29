@@ -5,7 +5,7 @@ let userInfo = [
         Lastname:"obeth",
         age:20,
         profession:"student",
-        city:"Chenni",
+        city:"Chennai",
         phoneNumber:1234567890,
     }
 ]
